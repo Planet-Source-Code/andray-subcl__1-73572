@@ -1,0 +1,22 @@
+[History]
+1=#P0#=mb	#P1#=PatchRel	#P2#=SubCL/csubcl/PatchRel	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101108223436	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=PatchVal	#P2#=SubCL/csubcl/PatchVal	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101108223438	#P7#=0	#P8#=2	.
+3=#P0#=mb	#P1#=b	#P2#=SubCL/csubcl/b	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101108223450	#P7#=0	#P8#=3	.
+4=#P0#=mb	#P1#=Class_Terminate	#P2#=SubCL/csubcl/Class_Terminate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101108231830	#P7#=0	#P8#=1	.
+5=#P0#=mb	#P1#=HookDefault	#P2#=SubCL/csubcl/HookDefault	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109000810	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=inIDE	#P2#=SubCL/csubcl/inIDE	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109002159	#P7#=0	#P8#=3	.
+7=#P0#=mb	#P1#=HookClear	#P2#=SubCL/csubcl/HookClear	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109024947	#P7#=0	#P8#=5	.
+8=#P0#=mb	#P1#=HookSet	#P2#=SubCL/csubcl/HookSet	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109031000	#P7#=0	#P8#=2	.
+9=#P0#=mb	#P1#=HookGetData	#P2#=SubCL/csubcl/HookGetData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109031058	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=Command1_Click	#P2#=SubCL/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109031253	#P7#=0	#P8#=2	.
+11=#P0#=mb	#P1#=Command3_Click	#P2#=SubCL/Form1/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109031448	#P7#=0	#P8#=4	.
+12=#P0#=mb	#P1#=Command2_Click	#P2#=SubCL/Form1/Command2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109031655	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=Class_Initialize	#P2#=SubCL/csubcl/Class_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109032518	#P7#=0	#P8#=17	.
+14=#P0#=mb	#P1#=Form_Unload	#P2#=SubCL/Form1/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109032818	#P7#=0	#P8#=2	.
+15=#P0#=mb	#P1#=cmdHChk_Click	#P2#=SubCL/Form1/cmdHChk_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109033355	#P7#=0	#P8#=1	.
+16=#P0#=mb	#P1#=cmdUChk_Click	#P2#=SubCL/Form1/cmdUChk_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109033509	#P7#=0	#P8#=-1	.
+17=#P0#=mb	#P1#=cmdHTxt_Click	#P2#=SubCL/Form1/cmdHTxt_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109033518	#P7#=0	#P8#=2	.
+18=#P0#=mb	#P1#=cmdUTxt_Click	#P2#=SubCL/Form1/cmdUTxt_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109033525	#P7#=0	#P8#=1	.
+19=#P0#=mb	#P1#=WindowProc	#P2#=SubCL/Form1/WindowProc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109033718	#P7#=0	#P8#=1	.
+20=#P0#=mb	#P1#=Form_Load	#P2#=SubCL/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101109040657	#P7#=0	#P8#=1	.
+21=#P0#=mb	#P1#=proc	#P2#=SubCL/csubcl/proc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101109041508	#P7#=0	#P8#=4	.
